@@ -1,0 +1,7 @@
+GET http://localhost:8080/api/c_d HTTP/1.1
+content-type: application/json
+
+{
+    "Customer_name": "sample",
+    "Customer_address": "Demoo"
+}
